@@ -1,18 +1,19 @@
 # 🤳🏻 PIC!  
 다양한 이미지를 구경하고 소통해보세요!
 
-[이미지 로고는 여기]
+[이미지 로고는 여기]  
 
 
 
 
 
 
-🔗 웹사이트 주소 : http://ryuryuryuryu.shop.s3-website.ap-northeast-2.amazonaws.com
+🔗 웹사이트 주소 : http://ryuryuryuryu.shop.s3-website.ap-northeast-2.amazonaws.com  
 
-
-
-
+</br>
+</br>
+</br>
+</br>
 
 
 
