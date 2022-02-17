@@ -3,7 +3,8 @@
 다양한 이미지를 구경하고 소통해보세요!
 </br>
 </br>
-[이미지 로고는 여기]
+<img width="819" alt="pic" src="https://user-images.githubusercontent.com/97426206/154457890-7565aca4-8576-4915-b424-e0c0830967e2.png">
+
 </br>
 </br>
 🔗 웹사이트 주소 : http://ryuryuryuryu.shop.s3-website.ap-northeast-2.amazonaws.com
@@ -52,6 +53,8 @@
 
 ## 4. 시연 영상
 </br>
+</br>
+🎥 https://www.youtube.com/watch?v=yoxtgmjYTA8
 </br>
 </br>
 
