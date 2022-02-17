@@ -18,6 +18,7 @@
 🗓 2022.02.11 ~ 2022.02.17
 </br>
 </br>
+![image](https://user-images.githubusercontent.com/96937623/154494833-b952b7fc-142b-41e4-a222-9f1f38ae2680.png)
 👥 FE 팀원
    유강현, 정재연
 </br>
