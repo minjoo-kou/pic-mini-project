@@ -2,18 +2,13 @@
 </br>
 다양한 이미지를 구경하고 소통해보세요!
 </br>
-[이미지 로고는 여기]  
-
-
-
-
-
 </br>
-🔗 웹사이트 주소 : http://ryuryuryuryu.shop.s3-website.ap-northeast-2.amazonaws.com  
-
+[이미지 로고는 여기]
 </br>
 </br>
-
+🔗 웹사이트 주소 : http://ryuryuryuryu.shop.s3-website.ap-northeast-2.amazonaws.com
+</br>
+</br>
 ## 1. 제작 기간 & 팀원 소개
 </br>
 
