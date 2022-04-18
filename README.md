@@ -6,11 +6,6 @@
 <img width="819" alt="pic" src="https://user-images.githubusercontent.com/97426206/154457890-7565aca4-8576-4915-b424-e0c0830967e2.png">
 
 </br>
-</br>
-🔗 웹사이트 주소 : http://ryuryuryuryu.shop.s3-website.ap-northeast-2.amazonaws.com
-</br>
-</br>
-
 
 ## 1. 제작 기간 & 팀원 소개
 </br>
